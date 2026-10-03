@@ -1,0 +1,24 @@
+{
+    "name": "omnisong/itunes",
+    "type": "library",
+    "description": "Omnisong iTunes: an artist's albums and tracks with their 30-second previews and artwork, through the iTunes Search API - no key.",
+    "keywords": ["music", "itunes", "apple-music", "preview", "omnisong"],
+    "license": "LGPL-3.0-or-later",
+    "authors": [{"name": "Marco Meyer", "email": "marco.meyer@glitchr.io"}],
+    "require": {
+        "php": ">=8.2",
+        "glitchr/omnisong": "^1.0@dev",
+        "symfony/http-client": "^6.4|^7.0|^8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    },
+    "autoload": {
+        "psr-4": {"Omnisong\\Itunes\\": ""},
+        "exclude-from-classmap": ["/Tests/"]
+    },
+    "autoload-dev": {
+        "psr-4": {"Omnisong\\Itunes\\Tests\\": "Tests/"}
+    },
+    "config": {"sort-packages": true}
+}

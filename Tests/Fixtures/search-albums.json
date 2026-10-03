@@ -1,0 +1,10 @@
+
+
+
+{
+ "resultCount":1,
+ "results": [
+{"wrapperType":"collection", "collectionType":"Album", "artistId":1576897067, "collectionId":1576897066, "artistName":"Brieuc Vourch & Guillaume Vincent", "collectionName":"Strauss & Franck: Sonatas for Violin and Piano", "collectionCensoredName":"Strauss & Franck: Sonatas for Violin and Piano", "artistViewUrl":"https://music.apple.com/de/artist/brieuc-vourch/1576897067?uo=4", "collectionViewUrl":"https://music.apple.com/de/album/strauss-franck-sonatas-for-violin-and-piano/1576897066?uo=4", "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a0/f0/47/a0f0474d-c411-6c13-2b40-821c5216e656/BrieucVourch_Titel_iTunes.jpg/60x60bb.jpg", "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a0/f0/47/a0f0474d-c411-6c13-2b40-821c5216e656/BrieucVourch_Titel_iTunes.jpg/100x100bb.jpg", "collectionPrice":9.99, "collectionExplicitness":"notExplicit", "trackCount":8, "copyright":"℗ 2021 FARAO classics", "country":"DEU", "currency":"EUR", "releaseDate":"2021-07-17T07:00:00Z", "primaryGenreName":"Klassik"}]
+}
+
+

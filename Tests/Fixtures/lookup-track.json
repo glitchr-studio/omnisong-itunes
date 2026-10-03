@@ -1,0 +1,11 @@
+
+
+
+{
+ "resultCount":1,
+ "results": [
+{"wrapperType":"track", "kind":"song", "artistId":1438589257, "collectionId":1793146044, "trackId":1793146055, "artistName":"Anaelle Tourret, NDR Elbphilharmonie Orchester & Vasily Petrenko", "collectionName":"Perspectives Concertantes", "trackName":"Concerto for Harp and Orchestra in E-Flat Major, Op. 74: I. Allegro Moderato", "collectionCensoredName":"Perspectives Concertantes", "trackCensoredName":"Concerto for Harp and Orchestra in E-Flat Major, Op. 74: I. Allegro Moderato", "collectionArtistName":"Anaelle Tourret, NDR Elbphilharmonie Orchester, Vasily Petrenko, Stuttgarter Kammerorchester & Bar Avni", "artistViewUrl":"https://music.apple.com/de/artist/anaelle-tourret/1438589257?uo=4", "collectionViewUrl":"https://music.apple.com/de/album/concerto-for-harp-and-orchestra-in-e-flat-major-op-74/1793146044?i=1793146055&uo=4", "trackViewUrl":"https://music.apple.com/de/album/concerto-for-harp-and-orchestra-in-e-flat-major-op-74/1793146044?i=1793146055&uo=4", 
+"previewUrl":"https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/02/3f/df/023fdf56-9772-8b41-3e98-d0985a4b50a6/mzaf_17993483565663500051.plus.aac.p.m4a", "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/84/2e/03842ead-96bc-0e38-6446-f61a9bfde85c/cover.jpg/30x30bb.jpg", "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/84/2e/03842ead-96bc-0e38-6446-f61a9bfde85c/cover.jpg/60x60bb.jpg", "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/03/84/2e/03842ead-96bc-0e38-6446-f61a9bfde85c/cover.jpg/100x100bb.jpg", "collectionPrice":9.99, "trackPrice":-1.00, "releaseDate":"2025-02-28T12:00:00Z", "collectionExplicitness":"notExplicit", "trackExplicitness":"notExplicit", "discCount":1, "discNumber":1, "trackCount":8, "trackNumber":1, "trackTimeMillis":677354, "country":"DEU", "currency":"EUR", "primaryGenreName":"Klassik", "isStreamable":true}]
+}
+
+

@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Omnisong iTunes: an artist's albums and tracks with their 30-second previews and artwork, through the iTunes Search API - no key.",
     "keywords": ["music", "itunes", "apple-music", "preview", "omnisong"],
-    "license": "LGPL-3.0-or-later",
+    "license": "MIT",
     "authors": [{"name": "Marco Meyer", "email": "marco.meyer@glitchr.io"}],
     "require": {
         "php": ">=8.2",

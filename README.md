@@ -37,4 +37,4 @@ Unknown is `null` / an empty list; 403 and 429 (about 20 calls a minute are allo
 `ProviderException`. The previews are Apple's, for promotional use next to a link to the store:
 keep the Apple Music link beside the player.
 
-License: LGPL-3.0-or-later.
+License: MIT since 2026-10-09; earlier versions remain published under LGPL-3.0-or-later.
